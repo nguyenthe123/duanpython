@@ -1,0 +1,386 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.10.3)  3 OCT 2020 04:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**out.tex
+(./out.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/vietnam.sty
+Package: vietnam 2009/07/12 v1.3 support for Vietnamese
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+)
+LaTeX Font Info:    Trying to load font information for T5+lmr on input line 11
+2.
+
+(/usr/share/texmf/tex/latex/lm/t5lmr.fd
+File: t5lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/vntex/vncaps.tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count171
+\Gm@cntv=\count172
+\c@Gm@tempcnt=\count173
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2020/01/24 v3.29 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+))))
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xhfill/xhfill.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count174
+\calc@Bcount=\count175
+\calc@Adimen=\dimen143
+\calc@Bdimen=\dimen144
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count176
+\calc@Cskip=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+Package: xhfill 2011/05/14\ v 1.01\ modify width and color of hrulefill
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen145
+\ar@mcellbox=\box45
+\extrarowheight=\dimen146
+\NC@list=\toks18
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip54
+\multirow@cntb=\count177
+\multirow@dima=\skip55
+\bigstrutjot=\dimen147
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen148
+\lightrulewidth=\dimen149
+\cmidrulewidth=\dimen150
+\belowrulesep=\dimen151
+\belowbottomsep=\dimen152
+\aboverulesep=\dimen153
+\abovetopsep=\dimen154
+\cmidrulesep=\dimen155
+\cmidrulekern=\dimen156
+\defaultaddspace=\dimen157
+\@cmidla=\count178
+\@cmidlb=\count179
+\@aboverulesep=\dimen158
+\@belowrulesep=\dimen159
+\@thisruleclass=\count180
+\@lastruleclass=\count181
+\@thisrulewidth=\dimen160
+)
+(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+\c@blindtext=\count182
+\c@Blindtext=\count183
+\c@blind@countparstart=\count184
+\blind@countxx=\count185
+\blindtext@numBlindtext=\count186
+\blind@countyy=\count187
+\c@blindlist=\count188
+\c@blindlistlevel=\count189
+\c@blindlist@level=\count190
+\blind@listitem=\count191
+\c@blind@listcount=\count192
+\c@blind@levelcount=\count193
+\blind@mathformula=\count194
+\blind@Mathformula=\count195
+\c@blind@randomcount=\count196
+\c@blind@randommax=\count197
+\c@blind@pangramcount=\count198
+\c@blind@pangrammax=\count199
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count266
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count267
+\g__pdf_backend_annotation_int=\count268
+)
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
+(./out.aux)
+\openout1 = `out.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+6.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 16
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 16.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(5.69046pt, 563.36467pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 759.6886pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=563.36467pt
+* \textheight=759.6886pt
+* \oddsidemargin=-66.57953pt
+* \evensidemargin=-66.57953pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.19998pt plus 3.19965pt minus 1.60033pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Missing character: There is no Đ in font t5-lmr8!
+Missing character: There is no Ạ in font t5-lmr8!
+Missing character: There is no Ọ in font t5-lmr8!
+Missing character: There is no Ố in font t5-lmr8!
+Missing character: There is no Ộ in font t5-lmr8!
+Missing character: There is no Ộ in font t5-lmr8!
+Missing character: There is no Ộ in font t5-lmr8!
+Missing character: There is no Ủ in font t5-lmr8!
+Missing character: There is no Ĩ in font t5-lmr8!
+Missing character: There is no Ệ in font t5-lmr8!
+Missing character: There is no Ư in font t5-lmbx8!
+Missing character: There is no Ờ in font t5-lmbx8!
+Missing character: There is no Đ in font t5-lmbx8!
+Missing character: There is no Ạ in font t5-lmbx8!
+Missing character: There is no Ọ in font t5-lmbx8!
+Missing character: There is no Ọ in font t5-lmbx8!
+Missing character: There is no Ự in font t5-lmbx8!
+Missing character: There is no Đ in font t5-lmbx8!
+Missing character: There is no ộ in font t5-lmbx8!
+Missing character: There is no ậ in font t5-lmbx8!
+Missing character: There is no ự in font t5-lmbx8!
+Missing character: There is no ạ in font t5-lmbx8!
+Missing character: There is no Ọ in font t5-lmbx10!
+Missing character: There is no Ỳ in font t5-lmbx10!
+Missing character: There is no ọ in font t5-lmbx8!
+Missing character: There is no ầ in font t5-lmbx8!
+Missing character: There is no ậ in font t5-lmbx8!
+Missing character: There is no ế in font t5-lmbx8!
+Missing character: There is no ố in font t5-lmbx8!
+Missing character: There is no ạ in font t5-lmbx8!
+Missing character: There is no ậ in font t5-lmbx8!
+Missing character: There is no ớ in font t5-lmr8!
+Missing character: There is no ố in font t5-lmr8!
+Missing character: There is no ỉ in font t5-lmr8!
+Missing character: There is no ứ in font t5-lmr8!
+Missing character: There is no ế in font t5-lmr8!
+Missing character: There is no ả in font t5-lmr8!
+Missing character: There is no đ in font t5-lmr8!
+Missing character: There is no ư in font t5-lmr8!
+Missing character: There is no ờ in font t5-lmr8!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 28.
+Missing character: There is no ọ in font t5-lmbx8!
+Missing character: There is no ớ in font t5-lmbx8!
+Missing character: There is no ư in font t5-lmbx8!
+Missing character: There is no ờ in font t5-lmbx8!
+Missing character: There is no ộ in font t5-lmbx8!
+Missing character: There is no ữ in font t5-lmbx8!
+Missing character: There is no ỳ in font t5-lmbx8!
+Missing character: There is no ễ in font t5-lmr8!
+Missing character: There is no Ấ in font t5-lmr8!
+Missing character: There is no ễ in font t5-lmr8!
+Missing character: There is no ố in font t5-lmr8!
+Missing character: There is no ế in font t5-lmr8!
+Missing character: There is no ễ in font t5-lmr8!
+Missing character: There is no ể in font t5-lmr8!
+Missing character: There is no ố in font t5-lmr8!
+Missing character: There is no ế in font t5-lmr8!
+
+Overfull \hbox (17.70569pt too wide) in paragraph at lines 22--104
+[] 
+ []
+
+[1
+
+]
+Missing character: There is no ọ in font t5-lmbx8!
+Missing character: There is no ớ in font t5-lmbx8!
+Missing character: There is no ư in font t5-lmbx8!
+Missing character: There is no ờ in font t5-lmbx8!
+Missing character: There is no ộ in font t5-lmbx8!
+Missing character: There is no ữ in font t5-lmbx8!
+Missing character: There is no ỳ in font t5-lmbx8!
+Missing character: There is no ố in font t5-lmr8!
+Missing character: There is no ố in font t5-lmr8!
+Missing character: There is no ờ in font t5-lmr8!
+Missing character: There is no ộ in font t5-lmr8!
+Missing character: There is no ă in font t5-lmr8!
+Missing character: There is no ộ in font t5-lmr8!
+Missing character: There is no ă in font t5-lmr8!
+Missing character: There is no ộ in font t5-lmr8!
+Missing character: There is no ă in font t5-lmr8!
+Missing character: There is no Ộ in font t5-lmr8!
+Missing character: There is no Ộ in font t5-lmr8!
+Missing character: There is no ọ in font t5-lmr8!
+Missing character: There is no ọ in font t5-lmr8!
+Missing character: There is no Ệ in font t5-lmr8!
+Missing character: There is no Ư in font t5-lmr8!
+Missing character: There is no Ở in font t5-lmr8!
+Missing character: There is no Ư in font t5-lmr8!
+Missing character: There is no Ở in font t5-lmr8!
+Missing character: There is no Đ in font t5-lmr8!
+Missing character: There is no Ạ in font t5-lmr8!
+
+Overfull \hbox (17.70569pt too wide) in paragraph at lines 105--187
+[][] 
+ []
+
+[2] (./out.aux) ) 
+Here is how much of TeX's memory you used:
+ 3451 strings out of 481377
+ 50400 string characters out of 5926969
+ 349996 words of memory out of 5000000
+ 20452 multiletter control sequences out of 15000+600000
+ 555210 words of font info for 35 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 39i,9n,51p,582b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on out.pdf (2 pages).

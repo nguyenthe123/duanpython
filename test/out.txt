@@ -1,0 +1,187 @@
+\documentclass[14pt,a4paper]{article}
+%Done vspace tab geometry....
+2 & 17000429 & Nguyễn Y Vân & 21/10/1997 & K61 Quốc Tế Lý & 10.0 & & & \\
+%\author{Kgh}
+\usepackage[left=0.2cm, right=1cm, top=1cm, bottom=2.00cm]{geometry} %Set border
+\newcommand\tab[1][1cm]{\hspace*{#1}} % Creat tab
+\setlength{\parindent}{0pt}
+\usepackage{scrextend}
+\changefontsizes{8pt}
+\usepackage{setspace} % Paragraph 2
+\usepackage{xhfill} % Dong ngang
+\usepackage{array} % 
+\usepackage{multirow} % Merge
+\usepackage{booktabs} %Change width line in table
+\usepackage{blindtext}
+\begin{document}
+\pagenumbering{gobble} % No number this page
+\newcommand{\xfill}[2][1ex]{{%
+		\dimen0=#2\advance\dimen0 by #1
+		\leaders\hrule height \dimen0 depth -#1\hfill%
+}}
+\tab[3cm] ĐẠI HỌC QUỐC GIA HÀ NỘI \tab[5cm] CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\\
+\tab[1.5cm]\textbf{TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN\tab[5cm]Độc lập - Tự do - Hạnh phúc}\\	
+\tab[3cm]\line (1,0){130} \tab[6cm] \line (1,0){130} \\\vspace{0.2cm}
+\doublespacing\tab[8.5cm]\textbf{{\large HỌC KỲ 1 2020-2021}}\\
+\textbf{Học phần: Nhập môn Internet kết nối vạn vật}\tab[3cm]Lớp HP: \textbf{PHY1070 3}\tab[2cm]Số tín chỉ: 2\\
+Thứ: 4\tab[9.1cm]Tiết: 9 - 11\tab[3.45cm]Giảng đường: 201T5\\
+\begin{tabular}{ m{0.7cm} | m{2cm}| m{4cm} | m{2cm} | m{2.5cm} | m{1.2cm} | m{1.5cm} | m{1cm} | m{1.6cm} | }
+		\toprule[0.4mm]
+		\begin{center}\textbf{STT }\end{center}&\begin{center}\textbf{Mã SV}\end{center} &\begin{center}\textbf{Họ và tên}\end{center} &\begin{center} \textbf{Ngày sinh}\end{center} &\begin{center} \textbf{Lớp}\end{center} &\vspace{-0.2cm}\begin{center} \textbf{Thường\vspace{-0.2cm}\\xuyên\vspace{-0.2cm}\\(...\%)\vspace{-0.6cm} }\end{center} & \begin{center} \textbf{Ký nộp }\end{center}&\vspace{-0.2cm}\begin{center} \textbf{Giữa\vspace{-0.2cm}\\kỳ\vspace{-0.2cm}\\(...\%)\vspace{-0.6cm} }\end{center} &\begin{center} \textbf{Ghi chú}\vspace{-0cm}\end{center}\\
+		%\midrule[0.01mm]
+		\hline
+		1 & 12345678 & Nguyễn Y Vân & 21/10/1997 & 28CLCMTTT & 1 & $ \gamma\upsilon $ & 2 & MẤT TÍCH\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\hline
+		stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+		\bottomrule[0.4mm]
+\end{tabular}
+\newpage
+\begin{tabular}{ m{0.7cm} | m{2cm}| m{4cm} | m{2cm} | m{2.5cm} | m{1.2cm} | m{1.5cm} | m{1cm} | m{1.6cm} | }
+	\toprule[0.4mm]
+	\begin{center}\textbf{STT }\end{center}&\begin{center}\textbf{Mã SV}\end{center} &\begin{center}\textbf{Họ và tên}\end{center} &\begin{center} \textbf{Ngày sinh}\end{center} &\begin{center} \textbf{Lớp}\end{center} &\vspace{-0.2cm}\begin{center} \textbf{Thường\vspace{-0.2cm}\\xuyên\vspace{-0.2cm}\\(...\%)\vspace{-0.6cm} }\end{center} & \begin{center} \textbf{Ký nộp }\end{center}&\vspace{-0.2cm}\begin{center} \textbf{Giữa\vspace{-0.2cm}\\kỳ\vspace{-0.2cm}\\(...\%)\vspace{-0.6cm} }\end{center} &\begin{center} \textbf{Ghi chú}\vspace{-0cm}\end{center}\\
+	%\midrule[0.01mm]
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\hline
+	stt1 & mssv1 & name1 & birth1 & class1 & often1 & sign1 & mid1 & note1\\
+	\bottomrule[0.4mm]
+\end{tabular}\\
+\tab[0.7cm]\vspace{-0.4cm}Số bài:...................... Số tờ:.............................\tab\\
+\vspace{-0.2cm}\tab[15cm]Hà Nội. Ngày\tab[0.5cm]tháng\tab[0.5cm]năm: 2020\\
+\vspace{-0.2cm}Hà Nội, ngày.................tháng............năm:..............\tab[1.25cm]Hà Nội, ngày............tháng............năm:.........\tab[1.25cm]\\
+\tab[0.5cm]CÁN BỘ COI THI\vspace{-0.2cm}\tab[5.5cm]CÁN BỘ COI THI\\
+\tab[0.4cm](Ký và ghi rõ họ tên)\tab[5.2cm](Ký và ghi rõ họ tên)\tab[5cm]TL HIỆU TRƯỞNG\\
+\tab[15.5cm] TRƯỞNG PHÒNG ĐÀO TẠO
+\end{document}

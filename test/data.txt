@@ -1,0 +1,3 @@
+Welcome to www.pytonexamples.org. 
+Here, you will find pyton programs for all general use cases.
+Nguyen Duy 29/11/2999219432
