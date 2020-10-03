@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.3)  3 OCT 2020 19:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.3)  3 OCT 2020 19:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**out.tex
-(./out.tex
+**vanban.tex
+(./vanban.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -356,8 +356,8 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 LaTeX Warning: Unused global option(s):
     [14pt].
 
-(./out.aux)
-\openout1 = `out.aux'.
+No file vanban.aux.
+\openout1 = `vanban.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -375,7 +375,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -442,20 +441,20 @@ Overfull \hbox (17.70569pt too wide) in paragraph at lines 105--187
 [][] 
  []
 
-[2] (./out.aux) ) 
+[2] (./vanban.aux) ) 
 Here is how much of TeX's memory you used:
- 3791 strings out of 482671
- 53072 string characters out of 5955618
- 350939 words of memory out of 5000000
+ 3789 strings out of 482671
+ 53080 string characters out of 5955618
+ 350949 words of memory out of 5000000
  18933 multiletter control sequences out of 15000+600000
  538066 words of font info for 34 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
- 39i,9n,51p,607b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx8.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/vntex/vnr/vnr8.pfb>
-Output written on out.pdf (2 pages, 61601 bytes).
+ 39i,9n,51p,610b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/vntex/vnr/vnr8.pfb>
+Output written on vanban.pdf (2 pages, 61104 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream

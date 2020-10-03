@@ -34,7 +34,7 @@ for u in range(0,total):
     i = i + 1
     k = k + 2
 import os
-cmd = "xelatex out.tex"
+cmd = "pdflatex out.tex"
 failure = os.system(cmd)
 if failure:
     print("Sai cmd")
